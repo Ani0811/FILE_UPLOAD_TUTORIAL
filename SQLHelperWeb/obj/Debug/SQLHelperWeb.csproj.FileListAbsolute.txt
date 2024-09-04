@@ -1,0 +1,8 @@
+C:\NSEC\CSharp.Projects\FileUploadWeb\SQLHelperWeb\bin\Debug\SQLHelperWeb.dll
+C:\NSEC\CSharp.Projects\FileUploadWeb\SQLHelperWeb\bin\Debug\SQLHelperWeb.pdb
+C:\NSEC\CSharp.Projects\FileUploadWeb\SQLHelperWeb\bin\Debug\MySql.Data.dll
+C:\NSEC\CSharp.Projects\FileUploadWeb\SQLHelperWeb\obj\Debug\SQLHelperWeb.csproj.AssemblyReference.cache
+C:\NSEC\CSharp.Projects\FileUploadWeb\SQLHelperWeb\obj\Debug\SQLHelperWeb.csproj.CoreCompileInputs.cache
+C:\NSEC\CSharp.Projects\FileUploadWeb\SQLHelperWeb\obj\Debug\SQLHelpe.23A4D80C.Up2Date
+C:\NSEC\CSharp.Projects\FileUploadWeb\SQLHelperWeb\obj\Debug\SQLHelperWeb.dll
+C:\NSEC\CSharp.Projects\FileUploadWeb\SQLHelperWeb\obj\Debug\SQLHelperWeb.pdb
